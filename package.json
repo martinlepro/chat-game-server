@@ -1,7 +1,7 @@
 {
   "name": "gameapp-server",
-  "version": "2.0.0",
-  "description": "GameApp WebSocket Server — 400 jeux",
+  "version": "3.0.0",
+  "description": "GameApp WebSocket Server — 400 jeux (ttt, quiz, agar, draw, tag, giant_ttt)",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
